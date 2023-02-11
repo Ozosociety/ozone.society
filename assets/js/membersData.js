@@ -212,7 +212,7 @@ export const membersFinal = [
     cid: "19CE018",
     fb: "apsararaheja@gmail.com",
     ln: "https://www.linkedin.com/in/apsara-raheja-b77b41199",
-    image: "ApsaraRAheja.jpg"
+    image: "ApsaraRaheja.jpg"
       },
       {
     name: "Kanika",
@@ -448,7 +448,7 @@ export const membersSecond = [
           name: "Sanchi",
           cid: "21BA054",
           fb: "Sanchimehta70@gmail.com",
-          image: "sanchiMehta.jpg"
+          image: "SanchiMehta.jpg"
           },
 ]
 
