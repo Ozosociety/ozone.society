@@ -6,7 +6,7 @@ var time = 3000;
 images[0] = 'group/image1.jpg';
 images[1] = 'group/image2.jpg';
 images[2] = 'group/image3.jpg';
-images[3] = 'group/image4.jpg';
+images[3] = 'group/image4.png';
 images[4] = 'group/image5.jpg';
 
 // Change Image

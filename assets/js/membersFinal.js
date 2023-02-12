@@ -1,4 +1,4 @@
-import { membersFinal } from "./memberData4th"; 
+import { membersFinal } from "./memberData4th.js"; 
 let members = document.getElementById("member4th");
 
 let generateCard = () =>{
