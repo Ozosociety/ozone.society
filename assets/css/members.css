@@ -104,6 +104,14 @@
     }
 
     .container .row .col-md-4 {
-        margin: 20px 0px;
+        margin: 9px 0px;
+    }
+    .row>* {
+        flex-shrink: -10;
+        width: 100%;
+        max-width: 73%;
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        margin-top: var(--bs-gutter-y);
     }
 }

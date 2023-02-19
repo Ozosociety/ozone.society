@@ -4,7 +4,7 @@ let members = document.getElementById("member2nd");
 let generateCard = () =>{
     return (members.innerHTML = membersSecond.map((x)=>{
         return `
-   <div class="col-lg-4">
+   <div class="col-md-4">
     <div class="card">
         <div class="card-image">
             <img src=assets/img/secondyear/${x.image} alt="" />
