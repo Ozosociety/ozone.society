@@ -142,7 +142,7 @@ export const membersSecond = [
             name: "Sanchi",
             cid: "21BA054",
             fb: "Sanchimehta70@gmail.com",
-            image: "sanchiMehta.jpg"
+            image: "SanchiMehta.jpg"
             },
   ]
   
