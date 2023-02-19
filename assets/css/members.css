@@ -98,12 +98,12 @@
     font-size: 1.3rem;
 }
 
-@media(max-width: 991.5px) {
+@media(max-width: 360px) {
     .container {
         margin-top: 20px;
     }
 
-    .container .row .col-lg-4 {
+    .container .row .col-md-4 {
         margin: 20px 0px;
     }
 }
