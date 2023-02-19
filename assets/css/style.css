@@ -101,6 +101,19 @@
   margin-left: 15px;
 }
 
+.font-italic{
+  margin-left: 160px; 
+  margin-right: -410px; 
+  text-align: justify-content;
+}
+@media (max-width: 360px) {
+  .font-italic {
+    margin: auto;
+  }
+
+  
+}
+
 #topbar .contact-info i:first-child {
   margin-left: 0;
 }
@@ -154,7 +167,7 @@
   max-height: 80px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 360px) {
   #header {
     padding: 15px;
     top: -42px;
@@ -568,9 +581,20 @@ section {
   font-weight: 600;
 }
 
-@media (min-width: 1024px) {
+.section-title img{
+  float: left; 
+  margin-right: 10px; 
+  margin-bottom: 5px;
+  border: solid black 10x; 
+  padding: 2px;
+}
+
+@media (max-width: 360px) {
   .section-title p {
     width: 50%;
+  }
+  .section-title img{
+      width: 100%;
   }
 }
 
