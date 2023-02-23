@@ -1,4 +1,4 @@
-let eventInfoData = [
+export const eventInfoData = [
     {
         delay: "100",
         class: "bxl-dribbble",
@@ -57,4 +57,3 @@ let eventInfoData = [
 ];
 
 
-export {eventInfoData};

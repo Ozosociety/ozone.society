@@ -1,4 +1,4 @@
-let eventsData = [
+export const eventsData = [
     {
         img: "image12.jpeg",
         name: "xyz",
@@ -170,4 +170,3 @@ let eventsData = [
 ];
 
 
-export {eventsData};

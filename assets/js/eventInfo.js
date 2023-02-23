@@ -1,4 +1,4 @@
-import {eventInfoData} from "./eventInfoData.js"
+import { eventInfoData } from "./eventInfoData.js";
 
 let eventInfo = document.getElementById("row");
 
