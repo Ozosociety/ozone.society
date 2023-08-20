@@ -2,9 +2,10 @@ import { eventInfoData } from "./eventInfoData.js";
 
 let eventInfo = document.getElementById("row");
 
-let generateEventInfo = () =>{
-    return(eventInfo.innerHTML = eventInfoData.map((x) =>{
-        return `
+let generateEventInfo = () => {
+  return (eventInfo.innerHTML = eventInfoData
+    .map((x) => {
+      return `
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="${x.delay}">
             <div class="icon-box">
               <div class="icon"><i class="bx ${x.class}"></i></div>
@@ -13,9 +14,9 @@ let generateEventInfo = () =>{
             </div>
           </div>
 
-        `
-    }).join(""));
+        `;
+    })
+    .join(""));
 };
-
 
 generateEventInfo();
