@@ -1,6 +1,6 @@
-# Ozone Society - Technical Empowerment
+# Ozone Society - #Being_Technical
 
-![Ozone Society Logo](./assets/img/logo/Ozone%20Logo.jpeg)
+![Ozone Society Logo](./assets/img/logo.png)
 
 Welcome to the Ozone Society at the Technological Institute of Textile & Sciences (TIT&S)! We are a passionate and dynamic technical society committed to empowering minds with a strong focus on all round development. Ozone Society provides a platform to explore, learn, and excel in the world of technology.
 
@@ -35,7 +35,7 @@ Joining Ozone Society is easy, and we welcome everyone who shares our passion fo
 Have questions or want to know more about Ozone Society? Feel free to reach out to us:
 
 - **Email**: society.ozone@gmail.com
-- **Website**: [www.ozone-society-titns.edu](https://www.ozone-society-titns.edu)
+- **Website**: [https://ozone-society.vercel.app](https://ozone-society.vercel.app)
 - **Social Media**: Follow us on [Facebook](https://www.facebook.com/OzoneSocietyTITNS) and [Twitter](https://twitter.com/OzoneSocietyTIT)
 
 We look forward to embarking on this exciting technical journey with you and empowering minds through the power of technology. Join us, and together, let's explore, innovate, and inspire!
